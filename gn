@@ -1,0 +1,25 @@
+Last login: Sat Sep  1 13:49:11 on ttys000
+dazonggong:~ sealing$ python3
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 20:42:06) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print('good evening!')
+good evening!
+>>> print('have a nice day!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
